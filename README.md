@@ -8,7 +8,7 @@ Opa, meu nome é Marcelo e atualmente estou aprendendo com os desafios na area d
 
 - :rocket: Empolgado com DevOps
 
-![Marcelo Caldas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclcaldas&show_icons=true&theme=radical)
+<!-- ![Marcelo Caldas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclcaldas&show_icons=true&theme=radical)
 
 
 
