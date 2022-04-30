@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Opa, meu nome é Marcelo e atualmente estou aprendendo com os desafios na area de TI.
-
-- :office: Atualmente trabalho como Suporte
+Opa, meu nome é Marcelo e estou sempre aprendendo com os desafios na area de TI.
 
 - :purple_heart: Apaixonado por tecnologia querendo aprender sempre mais
+
+- :office: Trabalho como DBA Trainee
+
+- :computer: Atualmente fazendo pós em Data Engineer na IMPACTA
 
 
 <!-- ![Marcelo Caldas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclcaldas&show_icons=true&theme=radical)
