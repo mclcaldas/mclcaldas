@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Opa, meu nome é Marcelo e estou sempre aprendendo com os desafios na area de TI.
+Oi, Tudo Bem ? Meu nome é Marcelo Caldas trabalho com TI desde 2019, e nos ambientes na qual eu fiz e faço parte atuo sempre sendo criativo, resiliente e organizado em minhas tarefas. Meu foco é na resolução de problemas da melhor forma possível. Acredito que trabalho em equipe é essencial, pois ninguém atua em situações de crise sozinho. 
 
-- :purple_heart: Apaixonado por tecnologia querendo aprender sempre mais.
+"Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar"
+ - Alan Turing
 
-- :office: Trabalho como DBA Trainee.
-
-- :computer: Atualmente fazendo pós em Data Engineer na IMPACTA.
 
 
 <!-- - :gear: Algumas ferramentas que conheço ou estudo.
@@ -17,13 +15,12 @@ Opa, meu nome é Marcelo e estou sempre aprendendo com os desafios na area de TI
    <img align="center" alt="Marcelo-SQL-Server" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">       
 </div> -->
 
-
-
+<!---
 ![Marcelo Caldas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mclcaldas&show_icons=true&theme=tokyonight)
+-->
 
-
-
-##
+<br/><br/>
+## Contatos
 <div> 
   <a href = "mailto:mcl.caldas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mclcaldas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
