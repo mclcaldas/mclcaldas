@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Oi, Tudo Bem ? Meu nome é Marcelo Caldas trabalho com TI desde 2019, e nos ambientes na qual eu fiz e faço parte atuo sempre sendo criativo, resiliente e organizado em minhas tarefas. Meu foco é na resolução de problemas da melhor forma possível. Acredito que trabalho em equipe é essencial, pois ninguém atua em situações de crise sozinho. 
+Oi, tudo bem? Meu nome é Marcelo Caldas, e trabalho com TI desde 2019. Nos ambientes em que atuei e atuo, sempre busco ser criativo, resiliente e organizado em minhas tarefas, com foco na resolução de problemas da melhor forma possível. Acredito que o trabalho em equipe é essencial, pois ninguém enfrenta situações desafiadoras sozinho.
+
+Atualmente, minha trajetória é movida pelos desafios e oportunidades que a área de dados oferece. Tenho experiência sólida como administrador de bancos de dados, atuando na sustentação e melhoria de ambientes, garantindo alta disponibilidade, desempenho e segurança. No momento, estou focado em expandir minha expertise em engenharia de dados e plataformas de dados, desenvolvendo soluções escaláveis e eficientes para transformar dados em insights estratégicos. Meu objetivo é crescer profissionalmente enquanto contribuo para o sucesso da empresa, promovendo inovação e excelência na gestão de dados.
 
 "Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar"
  - Alan Turing
